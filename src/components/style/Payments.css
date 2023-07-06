@@ -1,0 +1,48 @@
+.Payments {
+  margin-top: 50px;
+  padding-top: 100px;
+  padding-left: 50px;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+ 
+}
+.trans-bg{
+  backdrop-filter: blur(5px);
+  background: transparent;
+}
+
+.card-header {
+  background-color: #f8f9fa;
+  padding: 15px;
+  border-bottom: 1px solid #ccc;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  font-weight: bold;
+}
+
+.btn-success {
+  margin-top: 20px;
+}
+
+
+.bg-pay{
+  background: url('../../images/paymentBG.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  margin-top: -50px;
+  
+}

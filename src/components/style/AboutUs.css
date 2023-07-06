@@ -1,0 +1,23 @@
+.mt{
+    margin-top: 80px;
+    height: auto;
+    width: 100%;
+}
+
+
+hr{
+    background-color: rgb(77, 75, 75);
+    width: 100px;
+    margin-bottom: 2px;
+}
+
+.desc{
+    margin-bottom: 2px;
+}
+
+.lead{
+    font-weight: 400;
+}
+.about-body{
+    margin-bottom: 2px;
+}

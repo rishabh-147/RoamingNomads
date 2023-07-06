@@ -1,0 +1,29 @@
+.card-container {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    padding: 0 5rem;
+  }
+  
+  .card-blog {
+    position: relative;
+    transition: transform 0.3s ease;
+  }
+  
+  .card-blog:hover {
+    transform: scale(1.05);
+  }
+  
+  .grow {
+    overflow: hidden;
+  }
+  
+  .book-btn {
+    transition: transform 0.3s ease;
+  }
+  
+  .book-btn:hover {
+    transform:  translateY(10px);
+  }
+  
+  
